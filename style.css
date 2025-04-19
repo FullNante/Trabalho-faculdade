@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f3f0ec;
+    color: #333;
+}
+header {
+    background-color: #6f4e37;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+nav a {
+    margin: 0 1em;
+    color: white;
+    text-decoration: none;
+}
+.intro, .cardapio {
+    padding: 2em;
+    text-align: center;
+}
+footer {
+    background-color: #6f4e37;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
